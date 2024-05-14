@@ -2,6 +2,31 @@
 
 Este repositório contém os materiais para o curso de Sistemas Operacionais. O curso é composto por aulas expositivas, listas de exercícios e implementações práticas. Cada capítulo aborda um aspecto fundamental dos sistemas operacionais, conforme descrito abaixo.
 
+# Metodologia do Curso de Sistemas Operacionais
+
+Neste curso de Sistemas Operacionais, adotaremos uma abordagem diversificada para promover uma compreensão abrangente do tema. A metodologia inclui:
+
+## Aulas Expositivas
+As aulas serão conduzidas de forma expositiva, onde os conceitos fundamentais serão apresentados de maneira clara e organizada. Durante as aulas, serão explicados os princípios teóricos essenciais dos sistemas operacionais, incluindo processos, threads, gerenciamento de memória, sistemas de arquivos, entre outros.
+
+## Listas de Exercícios Teóricos
+Para reforçar o aprendizado teórico, serão disponibilizadas listas de exercícios. Essas listas abordarão questões conceituais e teóricas relacionadas aos temas discutidos em sala de aula. Os alunos terão a oportunidade de aplicar os conhecimentos adquiridos e desenvolver habilidades analíticas e de resolução de problemas.
+
+## Implementações de Programas
+Além da teoria, uma parte significativa do curso será dedicada à prática. Os alunos serão desafiados a implementar programas relacionados aos conceitos de sistemas operacionais estudados em sala de aula. Isso inclui o desenvolvimento de algoritmos de escalonamento de processos, alocação de memória, manipulação de arquivos, entre outros.
+
+## Provas
+Para avaliar o entendimento global dos alunos, serão realizadas avaliações formais por meio de provas. As provas abrangerão uma variedade de tópicos, incluindo conceitos teóricos, aplicação prática e resolução de problemas. A avaliação terá um peso significativo na nota final do curso.
+
+## Peso das Avaliações
+- Prova: 60%
+- Listas de Exercícios: 20%
+- Implementações de Programas: 20%
+
+Essa distribuição de peso visa equilibrar a avaliação do conhecimento teórico e prático, incentivando os alunos a se envolverem tanto na compreensão dos conceitos fundamentais quanto na aplicação prática dos mesmos.
+
+
+
 ## Capítulos do Curso
 
 1. **Introdução**
